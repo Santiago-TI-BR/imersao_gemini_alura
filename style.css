@@ -1,0 +1,6 @@
+body {
+    /* Define o estilo para o elemento <body> (corpo do documento) */
+    background-color: rgb(204, 253, 181); /* Define a cor de fundo do corpo como um tom de verde claro.
+                                          O valor rgb(204, 253, 181) especifica a intensidade 
+                                          das cores vermelho, verde e azul, respectivamente. */
+  }
